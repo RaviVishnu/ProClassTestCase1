@@ -22,7 +22,7 @@ public class HdfcCust {
 		
 		driver.switchTo().frame(frame1);
 		
-		driver.findElement(By.xpath("//input[@type='text']")).sendKeys("testing");
+		driver.findElement(By.xpath("//input[@type='text']")).sendKeys("Trial123");
 						
 		
 	}
